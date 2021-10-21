@@ -8,3 +8,4 @@ SPPED UP SHOOTING
 MAKE SHIP SMALLER
 ADD TRANSPERT ON BLAST 
 review breack out project for astroids for reset 
+add bullet imunity like after you bump into an astriod 
